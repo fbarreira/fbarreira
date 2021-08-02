@@ -2,6 +2,7 @@
 
 I'm here to code and chew bubble gum, and I'm all out of bubblegum...
 
+- Portfolio: https://fbarreira.github.io/
 - Products: https://play.google.com/store/apps/dev?id=5005315890439487843
 - Prototypes: https://learn.unity.com/u/5a5ce96c03b002001b6ea113?tab=profile
 
@@ -12,9 +13,8 @@ I'm here to code and chew bubble gum, and I'm all out of bubblegum...
 
 #### :books: Acquiring knowledge about...
 
+- Unity3D Development
 - Kotlin and Android
-- Pattern MVVM for Android
-- ASP.NET
 
 #### 💬 Inquire me about...
 
