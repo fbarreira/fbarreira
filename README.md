@@ -8,8 +8,7 @@ I'm here to code and chew bubble gum, and I'm all out of bubblegum...
 
 #### :hammer: Working on...
 
-- Releasing my newest game: [GAMBLE GALAXY](https://play.google.com/store/apps/details?id=com.justkrated.pokerdice)
-- Updating my other games
+- Working at S2P Edu
 
 #### :books: Acquiring knowledge about...
 
@@ -24,9 +23,8 @@ I'm here to code and chew bubble gum, and I'm all out of bubblegum...
 
 #### ⚡ Curiosities...
 
-- Playing **Tyranny**
-- Watching **Carnivàle**
-- Looking for a **job**
+- Playing **No Man's Sky**
+- Reading **The Magicians**
 
 #### 📫 How to summon me...
 
