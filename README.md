@@ -13,7 +13,7 @@ I'm here to code and chew bubble gum, and I'm all out of bubblegum...
 #### :books: Acquiring knowledge about...
 
 - Unity3D Development
-- Kotlin and Android
+- DevOps and IT Projects
 
 #### 💬 Inquire me about...
 
@@ -25,6 +25,7 @@ I'm here to code and chew bubble gum, and I'm all out of bubblegum...
 
 - Playing **No Man's Sky**
 - Reading **The Magicians**
+- Watching **Seinfeld**
 
 #### 📫 How to summon me...
 
