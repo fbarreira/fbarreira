@@ -8,12 +8,13 @@ I'm here to code and chew bubble gum, and I'm all out of bubblegum...
 
 #### :hammer: Working on...
 
-- Working at S2P Edu
+- Developing new and existing skills
 
 #### :books: Acquiring knowledge about...
 
 - Unity3D Development
-- DevOps and IT Projects
+- Technical Art development
+- AR development
 
 #### 💬 Inquire me about...
 
@@ -23,9 +24,9 @@ I'm here to code and chew bubble gum, and I'm all out of bubblegum...
 
 #### ⚡ Curiosities...
 
-- Playing **No Man's Sky**
+- Playing **Death Stranding**
 - Reading **The Magicians**
-- Watching **Seinfeld**
+- Watching **Succession**
 
 #### 📫 How to summon me...
 
