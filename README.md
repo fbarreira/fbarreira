@@ -24,9 +24,9 @@ I'm here to code and chew bubble gum, and I'm all out of bubblegum...
 
 #### ⚡ Curiosities...
 
-- Playing **Death Stranding**
-- Reading **The Ballad of Songbirds and Snakes**
-- Watching **Succession**
+- Playing **Civilization Beyond Earth**
+- Reading **The Magicians**
+- Watching **Mad Men**
 
 #### 📫 How to summon me...
 
